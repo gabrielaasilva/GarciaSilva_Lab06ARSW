@@ -1,7 +1,8 @@
 
-### Escuela Colombiana de Ingeniería
-### Arquitecturas de Software - ARSW
-## Laboratorio Construción de un cliente 'grueso' con un API REST, HTML5, Javascript y CSS3. Parte II.
+# Laboratorio 6
+## Integrantes
+- Juan Sebastián García
+- Ana Gabriela Silva
 
 ### Dependencias:
 * [Laboratorio API REST para la gestión de planos.](https://github.com/ARSW-ECI-beta/REST_API-JAVA-BLUEPRINTS_PART2)
